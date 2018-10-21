@@ -1,10 +1,5 @@
 pickles
-datasets/
-datasets/all-the-news.zip
-datasets/all-the-news/articles1.csv
-datasets/all-the-news/articles2.csv
-datasets/all-the-news/articles3.csv
-data/
+code/datasets/
 .idea/Headline_Generation_NLP-master.iml
 .idea/misc.xml
 .idea/modules.xml
