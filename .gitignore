@@ -1,5 +1,7 @@
 pickles
 code/datasets/
+code/pickles
+code/temp
 .idea/Headline_Generation_NLP-master.iml
 .idea/misc.xml
 .idea/modules.xml
