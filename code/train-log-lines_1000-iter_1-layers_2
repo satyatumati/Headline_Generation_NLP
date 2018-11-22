@@ -1,0 +1,20 @@
+INFO:root:--------------Start of Log--------------
+INFO:root:Data: json_news-1000-glove-vocab-embedding
+INFO:root:/* Setup */
+INFO:root:rnn_size: 64
+INFO:root:rnn_layers: 2
+INFO:root:activation_rnn_size: 40
+INFO:root:batch size: 16
+INFO:root:Learning Rate: 0.0001
+INFO:root:/* Setup */
+INFO:root:rnn_size: 64
+INFO:root:rnn_layers: 2
+INFO:root:activation_rnn_size: 40
+INFO:root:batch size: 16
+INFO:root:Learning Rate: 0.0001
+INFO:root:/* Setup */
+INFO:root:rnn_size: 64
+INFO:root:rnn_layers: 2
+INFO:root:activation_rnn_size: 40
+INFO:root:batch size: 16
+INFO:root:Learning Rate: 0.0001

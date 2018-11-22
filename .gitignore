@@ -2,6 +2,7 @@ pickles
 code/datasets/
 code/pickles
 code/temp
+code/temp_store.csv
 .idea/Headline_Generation_NLP-master.iml
 .idea/misc.xml
 .idea/modules.xml
